@@ -1,18 +1,3 @@
-/***
-#CLBsap
-http://clbsap-1389-dev-team-1.apps.ocp-gc.snamretegas.priv/CLBsap/jarvis/hello
-http://clbsap-1389-dev-team-1.apps.ocp-gc.snamretegas.priv/CLBsap/clbsap/init
-http://clbsap-1389-dev-team-1.apps.ocp-gc.snamretegas.priv/CLBsap/clbsap/view?social_reason=&start=0&limit=30 
-
-http://clbsap-1389-dev.apps.ocp-gc.snamretegas.priv/CLBsap
-http://clbsap-1389-test.apps.ocp-gc.snamretegas.priv/CLBsap
-http://clbsap-1389-preprod.apps.ocp-gc.snamretegas.priv/CLBsap
-
-#FRONT-END
-http://portal-1389-dev.apps.ocp-gc.snamretegas.priv/#/tradingThor
-http://portal-1389-test.apps.ocp-gc.snamretegas.priv/#/tradingThor
-http://portal-1389-preprod.apps.ocp-gc.snamretegas.priv/#/tradingThor
-*/
 package com.spring.controller;
 
 import org.slf4j.Logger;
